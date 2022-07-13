@@ -1,2 +1,3 @@
-# tiro-al-arco-1
-proyecto 28
+# Plantilla C28
+
+Plantilla C28
